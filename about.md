@@ -3,28 +3,45 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+[Q]: https://www.qualcomm.com/
+[J]: http://julialang.org/
+[M]: https://www.mathworks.com/products/matlab/
+[P]: https://www.python.org/
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a System & Software Engineer at [Qualcomm][Q] working on algorithm design, performance analysis and optimization for wireless communications.
 
-There are currently two themes built on Poole:
+Before joining Qualcomm, I got my PhD in [Electrical Engineering](http://www.ee.ucla.edu/) from [UCLA](http://http://www.ucla.edu/).
+I got my master degree from [Chalmers](https://www.chalmers.se/en/) in Sweden.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Things that I like
+I am passionate about science and technology.
+I love math, I enjoy coding and I am a big fan of classical music.
+Doing these things makes me really happy.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Math
+I love math.
+My favorite branch is mathematical analysis.
+I am fascinated about topics in topological space, real analysis, measure theory, and functional analysis.
+I also like the more applied aspect of mathematics: probability, random process, statistics, numerical linear algebra and optimization.
 
-## Setup
+### Coding
+I have more than 8 years of experience in [Matlab][M] and C.
+I was a lecturer of the [UCLA HSSEAS Matlab Workshop](http://www.seasoasa.ucla.edu/student-opportunities/matlab).
+You can download my slides and handout on my Github: [Matlab Graphics](https://github.com/rhymer/matlab-plot-tutorial).
 
-Some fun facts about the setup of this project include:
+Then I discovered [Julia][J], a high-level dynamic language with C-ish performance.
+Coming from a [Matlab][M]/C background, I am really excited about [Julia][J]:
+its syntax is clean, expressive and easy to understand.
+I can quickly prototype a complicated algorithm and get very good performance.
+I can also annotate the type of variables to help the compiler optimizing my code.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+One downside of [Julia][J] is its [package ecosystem](http://pkg.julialang.org/pulse.html).
+It is not as mature as [R](https://www.r-project.org/) and [Python][P].
+That's why I would suggest people who's interested in [Julia][J] should also play with [Python][P].
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Music
+I love classical music, from Baroque to Romantic.
+My favorite composers are Bach, Chopin, Rachmaninoff and Scriabin.
 
-Thanks for reading!
+## Contact
+Have questions or suggestions? Feel free to send me an [email](mailto:rhymer123@gmail.com)!
