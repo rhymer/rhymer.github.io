@@ -21,23 +21,12 @@ Doing these things makes me really happy.
 ### Math
 I love math.
 My favorite branch is mathematical analysis.
-I am fascinated about topics in topological space, real analysis, measure theory, and functional analysis.
-I also like the more applied aspect of mathematics: probability, random process, statistics, numerical linear algebra and optimization.
+I am fascinated about topics in topological space, real analysis, probability, statistics and optimization.
 
 ### Coding
-I have more than 8 years of experience in [Matlab][M] and C.
-I was a lecturer of the [UCLA HSSEAS Matlab Workshop](http://www.seasoasa.ucla.edu/student-opportunities/matlab).
-You can download my slides and handout on my Github: [Matlab Graphics](https://github.com/rhymer/matlab-plot-tutorial).
-
-Then I discovered [Julia][J], a high-level dynamic language with C-ish performance.
-Coming from a [Matlab][M]/C background, I am really excited about [Julia][J]:
-its syntax is clean, expressive and easy to understand.
+Coming from the [Matlab][M]/C background[^fn-matlab], I am really excited about [Julia][J]: a high-level dynamic language with C-ish performance.
 I can quickly prototype a complicated algorithm and get very good performance.
-I can also annotate the type of variables to help the compiler optimizing my code.
-
-One downside of [Julia][J] is its [package ecosystem](http://pkg.julialang.org/pulse.html).
-It is not as mature as [R](https://www.r-project.org/) and [Python][P].
-That's why I would suggest people who's interested in [Julia][J] should also play with [Python][P].
+I use [Julia][J] both in my research works and my teaching[^fn-julia].
 
 ### Music
 I love classical music, from Baroque to Romantic.
@@ -45,3 +34,9 @@ My favorite composers are Bach, Chopin, Rachmaninoff and Scriabin.
 
 ## Contact
 Have questions or suggestions? Feel free to send me an [email](mailto:rhymer123@gmail.com)!
+
+---------------------------------------
+
+[^fn-matlab]: I was a lecturer of the [UCLA HSSEAS Matlab Workshop](http://www.seasoasa.ucla.edu/student-opportunities/matlab). You can download my slides and handout on my Github: [Matlab Graphics](https://github.com/rhymer/matlab-plot-tutorial).
+
+[^fn-julia]: I taught an [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html) course in UCLA using [Julia][J]. You can download my IJulia notebook on my Github.
