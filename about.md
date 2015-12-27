@@ -8,6 +8,8 @@ title: About
 [M]: https://www.mathworks.com/products/matlab/
 [P]: https://www.python.org/
 
+<img src="/images/rhymer-headshot2.jpg" alt="Smiley face" align="middle" style="width: 200px;"/>
+
 I am a System & Software Engineer at [Qualcomm][Q] working on algorithm design, performance analysis and optimization for wireless communications.
 
 Before joining Qualcomm, I got my PhD in [Electrical Engineering](http://www.ee.ucla.edu/) from [UCLA](http://http://www.ucla.edu/).
