@@ -5,9 +5,6 @@ tags: [Music]
 ---
 
 [P]: https://en.wikipedia.org/wiki/Maria_Jo%C3%A3o_Pires
-[G]: https://pages.github.com/
-[L]: http://lanyon.getpoole.com/
-[M]: https://twitter.com/mdo
 
 I came across an interesting anecdote about [Maria João Pires][P]:
 during a lunchtime concert in Amsterdam,
